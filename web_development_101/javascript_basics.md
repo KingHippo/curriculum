@@ -102,6 +102,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Adam Lecuyer's solution](https://github.com/antisense/js.projecteuler)
 * [Zane Bilous's solutions](https://github.com/Zane-/projectEuler)
 * [Thomas Vaeth's solutions](https://github.com/thomasvaeth/the_odin_project/tree/master/project-euler)
+* [Don Price's solutions](https://github.com/KingHippo/the_odin_project/tree/master/project-euler) or [view it in the browser here](http://kinghippo.github.io/the_odin_project/project-euler/)
 * *Put your solution above this line!*
 
 
