@@ -94,6 +94,7 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 * [M. Edgar Joel's solution](https://github.com/edgar-/learn_ruby)
 * [Tarun Johnson's solution](https://github.com/tnt007tarun/Web_Dev_101_Ruby_problems)
 * [Xavier Reid's Solution](https://github.com/xreid/ruby_project)
+* [Don Price's Solution](https://github.com/KingHippo/the_odin_project/tree/master/learn_ruby)
 * Add your solution above this line!
 * "Official" [Test-First Ruby Solutions](https://github.com/ultrasaurus/test-first-teaching/tree/master/learn_ruby) (look for the "solutions" folder inside each exercise)
 * DucPhan's [ProjectEuler solutions](https://github.com/phanducsjsu/ProjectEuler) and [Ruby Mini Project (WIP)](https://github.com/phanducsjsu/Test-First-Ruby)
